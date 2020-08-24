@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  TipCalc35
 //
-//  Created by Ian Becker on 8/24/20.
-//  Copyright © 2020 Ian Becker. All rights reserved.
+//  Created by Colton Swapp on 8/24/20.
+//  Copyright © 2020 Colton Swapp. All rights reserved.
 //
 
 import UIKit
